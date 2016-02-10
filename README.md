@@ -1,2 +1,4 @@
-# AkkaExplore
-Sandbox to build prototypes and demo examples using scala and  akka
+activator-akka-scala-seed
+=========================
+
+A minimal seed template for an Akka with Scala build 
